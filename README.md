@@ -17,6 +17,7 @@ I'm a developer with a passion for creating clean, efficient, and user-friendly 
 - **Backend**: Node.js, Express
 - **Tools**: Git, VS Code, Docker
 - **Databases**: MongoDB, PostgreSQL
+- **OS**: Linux, Windows
 
 ---
 
