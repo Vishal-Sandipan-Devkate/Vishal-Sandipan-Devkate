@@ -1,18 +1,18 @@
 #  Hi, I'm Vishal Sandipan Devkate!
 
-Welcome to my GitHub profile! I'm a passionate developer dedicated to building impactful solutions.
+Welcome to my GitHub profile! 
 
 ---
 
 ##  About Me
 
-I'm a developer with a passion for creating clean, efficient, and user-friendly applications. I love exploring new technologies and contributing to open-source projects.
+I'm a developer with a passion for creating clean, efficient, and user-friendly applications.
 
 ---
 
 ## Tech Stack
 
-- **Languages**: java, Python, JavaScript, TypeScript, c, cpp
+- **Languages**: java, Python,c, cpp
 - **Frontend**: React, HTML, CSS
 - **Backend**: Node.js, Express
 - **Tools**: Git, VS Code, Docker
@@ -23,7 +23,7 @@ I'm a developer with a passion for creating clean, efficient, and user-friendly 
 
 ##  Currently Learning
 
-- Advanced system design patterns
+- System design patterns
 - Cloud technologies (AWS, Azure)
 - Machine learning & AI
 
