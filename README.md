@@ -17,7 +17,7 @@ I'm a developer with a passion for creating clean, efficient, and user-friendly 
 - **Backend**: Node.js, Express
 - **Tools**: Git, VS Code, Docker
 - **Databases**: MongoDB, PostgreSQL
-- **OS**: Linux, Windows
+- **OS**: Linux(Ubantu), Windows
 
 ---
 
@@ -26,7 +26,6 @@ I'm a developer with a passion for creating clean, efficient, and user-friendly 
 - System design patterns
 - Cloud technologies (AWS, Azure)
 - Machine learning & AI
-
 ---
 
 ##  Let's Collaborate!
@@ -35,7 +34,6 @@ I'm open to collaborating on interesting projects. Feel free to reach out if you
 - Open-source contributions
 - Full-stack applications
 - Innovative tech projects
-
 ---
 
 ##  Get In Touch
