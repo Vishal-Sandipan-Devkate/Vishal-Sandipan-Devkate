@@ -13,7 +13,7 @@ I'm a developer with a passion for creating clean, efficient, and user-friendly 
 ## Tech Stack
 
 - **Languages**: java, Python,c, cpp
-- **Frontend**: React, HTML, CSS
+- **Frontend**:  HTML, CSS
 - **Backend**: Node.js, Express
 - **Tools**: Git, VS Code, Docker
 - **Databases**: MongoDB, PostgreSQL
@@ -24,7 +24,7 @@ I'm a developer with a passion for creating clean, efficient, and user-friendly 
 ##  Currently Learning
 
 - System design patterns
-- Cloud technologies (AWS, Azure)
+- Cloud technologies (AWS, Azure, GCP)
 - Machine learning & AI
 ---
 
