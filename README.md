@@ -15,7 +15,7 @@ I'm a developer with a passion for creating clean, efficient, and user-friendly 
 - **Languages**: java, Python,c, cpp
 - **Frontend**:  HTML, CSS
 - **Backend**: Node.js, Express
-- **Tools**: Git, VS Code, Docker
+- **Tools**: Git, VS Code, Docker, Ansible, Maven 
 - **Databases**: MongoDB, PostgreSQL
 - **OS**: Linux(Ubantu), Windows
 
